@@ -67,6 +67,96 @@ int main()
             "structure",
             'b'
         },
+            {
+        "Q. Which device is used to store data permanently?",  // Q7
+        "RAM",
+        "Hard Disk",
+        "Cache",
+        "Registers",
+        'b'
+    },
+
+    {
+        "Q. Which is NOT an operating system?",  // Q8
+        "Windows",
+        "Linux",
+        "MS Word",
+        "macOS",
+        'c'
+    },
+
+    {
+        "Q. Which symbol is used for comments in C?",  // Q9
+        "//",
+        "##",
+        "--",
+        "@@",
+        'a'
+    },
+
+    {
+        "Q. Which memory is volatile?",  // Q10
+        "ROM",
+        "Hard Disk",
+        "RAM",
+        "Pen Drive",
+        'c'
+    },
+
+    {
+        "Q. Which one is NOT a programming language?",  // Q11
+        "Python",
+        "C++",
+        "Java",
+        "Google",
+        'd'
+    },
+
+    {
+        "Q. Which device is used to print on paper?",  // Q12
+        "Monitor",
+        "Printer",
+        "Scanner",
+        "Keyboard",
+        'b'
+    },
+
+    {
+        "Q. Which shortcut key is used to copy?",  // Q13
+        "Ctrl + C",
+        "Ctrl + V",
+        "Ctrl + X",
+        "Ctrl + S",
+        'a'
+    },
+
+    {
+        "Q. Which number system uses base 2?",  // Q14
+        "Decimal",
+        "Binary",
+        "Octal",
+        "Hexadecimal",
+        'b'
+    },
+
+    {
+        "Q. Which tag is used for heading in HTML?",  // Q15
+        "<p>",
+        "<h1>",
+        "<br>",
+        "<title>",
+        'b'
+    },
+
+    {
+        "Q. Which company developed the C language?",  // Q16
+        "Microsoft",
+        "Apple",
+        "Bell Labs",
+        "Google",
+        'c'
+    },
+
         
     };
 
